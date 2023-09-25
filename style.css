@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(154, 238, 229);
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: rgb(38, 66, 139);
+}
+
+.vzdelani {
+  background-color: rgb(129, 200, 208);
+  text-align: center;
+}
+
+.kontakt {
+  font-size: large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.ohraniceni {
+  border: 1px solid black;
+}
+
+hr {
+  border: 1px solid rgb(137, 54, 54);
+}
+
+.prace {
+  text-align: center;
+}
+
+.info {
+  background-color: rgb(205, 151, 151);
+  width: fit-content;
+}
+
+.foto {
+  width: 100px;
+  margin-left: 70px;
+  display: block;
+}
+
+.barveni:hover {
+  color: brown;
+}
